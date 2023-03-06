@@ -3,6 +3,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B06FF7&width=435&lines=Student+of+Programming)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pico-0)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=Pico-0)
